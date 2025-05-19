@@ -1,4 +1,4 @@
-FROM node:23.3.0-bookworm-slim
+FROM node:23.11.1-bookworm-slim
 
 ENV INSTANA_AUTO_PROFILE true
 
